@@ -1,0 +1,2 @@
+# boostrap
+belajar git
